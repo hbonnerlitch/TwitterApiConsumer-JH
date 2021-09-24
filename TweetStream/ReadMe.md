@@ -1,5 +1,5 @@
-# TwitterApiConsumer-JH
-Coding Challenge - Litchfield
+﻿# TwitterSteamReader
+TwitterSteamReader 
 
 Set Key, Secret and BearerToken values in appsettings.json. 
 
